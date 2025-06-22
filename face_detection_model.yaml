@@ -1,0 +1,14 @@
+cascade_path: /usr/local/lib/python3.11/dist-packages/cv2/data/haarcascade_frontalface_default.xml
+model_type: haar_cascade
+parameters:
+  flags: CASCADE_SCALE_IMAGE
+  minNeighbors: 5
+  minSize:
+    height: 30
+    width: 30
+  scaleFactor: 1.1
+preprocessing:
+  convert_to_gray: true
+  face_resize:
+    height: 100
+    width: 100

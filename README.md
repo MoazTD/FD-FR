@@ -2,6 +2,8 @@
 
 A Python-based face detection and recognition system using OpenCV and machine learning techniques.
 
+Check out this video demo: [My Awesome Demo Video](https://www.youtube.com/watch?v=j3ZrlK7Kn9Q)
+
 ## Project Overview
 
 This project implements face detection and recognition capabilities with the following features:
